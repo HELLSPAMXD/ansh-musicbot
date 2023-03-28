@@ -1,3 +1,5 @@
+"""
+
 from pyrogram import Client, filters
 from pyrogram.types import *
 from pymongo import MongoClient
@@ -301,3 +303,5 @@ async def vickprivatesticker(client: Client, message: Message):
                await message.reply_sticker(f"{hey}")
 
 #bot.run()
+
+"""
