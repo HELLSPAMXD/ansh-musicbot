@@ -1,7 +1,7 @@
 {
-    "name": "RomeoBot",
+    "name": "___𝐂𝐡𝐞𝐫𝐫𝐲__",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/e745fdaf1966f228582dc.jpg",
+    "logo": "https://graph.org/file/631baec8d89879eefe156.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "23854524",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "e765ba734e8c485b1b1f72dff94127de",
         "required": true
       },
       "BOT_TOKEN": {
@@ -30,12 +30,12 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority",
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "Romeo-musicBot",
+        "description": "A name for your Music Bot. You can use special characters bot ko koi farak ni padega",
+        "value": "cherry-musicBot",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -50,7 +50,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1952625698",
         "required": true
       },
       "STRING_SESSION": {
@@ -75,12 +75,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Fill the link of your group..",
-        "value": "https://t.me/RomeoBot_OP",
+        "value": "https://t.me/ISHQ00_I",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Fill the link of channel.",
-        "value": "https://t.me/Romeo_OP",
+        "value": "https://t.me/XD_CUTETY",
         "required": false
       }
     },
