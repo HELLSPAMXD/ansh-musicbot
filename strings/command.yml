@@ -9,7 +9,7 @@ STATS_COMMAND : ["stats"]
 LANGUAGE_COMMAND : ["lundlang", "lavdalele", "langlund"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
+PLAY_COMMAND : ["play", "vplay", "ansh", "YKD", "meaw", "vplayforce", "cplayforce", "cvplayforce"]
 PLAYMODE_COMMAND : ["playmode", "mode"]
 CHANNELPLAY_COMMAND : ["channelplay"]
 STREAM_COMMAND : ["stream", "cstream", "streamforce"]
@@ -21,7 +21,7 @@ DELETEPLAYLIST_COMMAND : ["deleteplaylist", "delplaylist"]
 
 # Tools
 QUEUE_COMMAND : ["queue", "cqueue", "player", "cplayer", "playing", "cplaying"]
-SONG_COMMAND : ["song", "video", "vsong"]
+SONG_COMMAND : ["song", "ansh", "meaw"]
 LYRICS_COMMAND : ["lyrics", "lyric"]
 
 
@@ -41,7 +41,7 @@ RESTART_COMMAND : ["reboot"]
 # Sudo Users Commaands
 
 # Sudo Command
-ADDSUDO_COMMAND : ["addsudo", "addrandi", "randi"]
+ADDSUDO_COMMAND : ["addsudo", "lol", "randi"]
 DELSUDO_COMMAND : ["delsudo", "rmsudo", "bsdk", "bhakkbsdk"]
 SUDOUSERS_COMMAND : ["sudolist", "listsudo", "sudoers", "sudo"]
 
