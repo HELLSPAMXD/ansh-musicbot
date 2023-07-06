@@ -4,9 +4,10 @@ _________Kuku Bøʈ________________
 
 ##  Ɗəpɭoɤ ʈo ɧeɽoku  🤝
 
-- First give start then
-- Fork the repo then 
-- Tap below botton ☟︎︎︎☟︎︎︎☟︎︎︎ for deploy [Kuku-ɓɵʈ](https://t.me/KUKU_XBOT)
+- Fɑɽsʈ gɨvɘ Sʈɑɽʈ Ʈɧɘŋ
+- Fɵɽk Ʈɧɘ Ɽɘpo Ʈɧɘŋ 
+- ƮƟP Ɓɘɭøw ƁØʈʈƟŋ ☟︎︎︎☟︎︎︎☟︎︎︎ Fɵɽ Ɗɘpɭɵy
+ [Kuku-ɓɵʈ](https://t.me/KUKU_XBOT)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/HELLSPAMXD/ansh-musicbot)
 
