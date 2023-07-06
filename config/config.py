@@ -110,7 +110,7 @@ START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/631baec8d89879ee
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/842fce6b11fec8c23933c.jpg",
+    "https://te.legra.ph/file/a0277cf6decfbac5811ba.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
