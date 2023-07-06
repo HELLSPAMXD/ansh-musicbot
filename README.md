@@ -27,7 +27,7 @@ _________Kuku Bøʈ________________
 
 
 
-### [Ɓɵʈ Ɵwŋəɽ](https://t.me/I_LOVE_YOU_MY_HEARTBEET)
+### [Ɓɵʈ Ɵwŋəɽ](https://t.me/I_LOVE_Y0U_MY_HEARTBEET)
 
 
 
