@@ -143,7 +143,7 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "**🔄 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 ...**"
+play_1 : "**🙈Ɓʌɓy ɽuko Ʌŋsɧ pɭɑy kɽ ɽɧɑ ɧɑɨ ...**"
 play_2 : "**🏷𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐏𝐥𝐚𝐲 𝐌𝐨𝐝𝐞**\n\n**🔄 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 ...**\n**𝐋𝐢𝐧𝐤𝐞𝐝 𝐂𝐡𝐚𝐧𝐧𝐞𝐥:** {0}"
 play_3 : "**❌ 𝐅𝐚𝐢𝐥𝐞𝐝 𝐓𝐨 𝐏𝐫𝐨𝐜𝐞𝐬𝐬 𝐐𝐮𝐞𝐫𝐲 ✨...**"
 play_4 : "**🤖 𝐒𝐨𝐫𝐫𝐲 𝐎𝐧𝐥𝐲 𝐀𝐝𝐦𝐢𝐧𝐬 𝐚𝐧𝐝 𝐀𝐮𝐭𝐡\n𝐔𝐬𝐞𝐫𝐬 𝐂𝐚𝐧 𝐏𝐥𝐚𝐲 💞 ...**"
@@ -238,10 +238,10 @@ stream_4 : "**💥 𝐀𝐧𝐬𝐡★𝐏𝐥𝐚𝐲𝐞𝐫 💿 𝐍𝐨𝐰
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "❌ 𝐂𝐥𝐨𝐬𝐞 ❌"
-CLOSEMENU_BUTTON  : "❌ 𝐂𝐥𝐨𝐬𝐞 ❌"
-BACK_BUTTON : "⬅ 𝐁𝐚𝐜𝐤 ⬅"
-UNBAN_BUTTON : "🤖 𝐔𝐧𝐛𝐚𝐧 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 💞"
+CLOSE_BUTTON  : "❌ Cɭosɘ ❌"
+CLOSEMENU_BUTTON  : "❌ Cɭosɘ ❌"
+BACK_BUTTON : "⬅ Ɓʌck ⬅"
+UNBAN_BUTTON : "🤖 Uŋɓʌŋ 𝐀ssısɑŋʈ 💞"
 
 #Lyrics
 L_B_1 : "🚀 𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 𝐋𝐲𝐫𝐢𝐜𝐬 𝐍𝐨𝐰"
